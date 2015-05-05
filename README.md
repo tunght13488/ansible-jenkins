@@ -1,7 +1,7 @@
-Jenkins
+jenkins
 =======
 
-Jenkins
+Jenkins CI Server
 
 <!-- Requirements
 ------------
@@ -16,7 +16,7 @@ A description of the settable variables for this role should go here, including 
 Dependencies
 ------------
 
-- tunght13488.java
+- `tunght13488.java`
 
 Example Playbook
 ----------------

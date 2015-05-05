@@ -1,0 +1,6 @@
+---
+tunght13488_jenkins_home: /var/jenkins_home
+tunght13488_jenkins_version: 1.596.2
+tunght13488_jenkins_sha: 96ee85602a41d68c164fb54d4796be5d1d9cc5d0
+tunght13488_jenkins_uc: https://updates.jenkins-ci.org
+tunght13488_jenkins_copy_reference_file_log: /var/log/copy_reference_file.log
